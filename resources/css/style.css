@@ -29,6 +29,11 @@ body {
 
 .coming-soon {
     color: white;
+    font-weight: 300;
+}
+
+.phone-icon {
+    padding-top: 20px;
 }
 
 .footer {
